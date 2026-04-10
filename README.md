@@ -1,0 +1,2 @@
+# Quanty
+Personal accounts application.
